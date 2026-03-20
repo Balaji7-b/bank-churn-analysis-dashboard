@@ -10,3 +10,9 @@ This dashboard helps businesses:
 - Identify high-risk customers
 - Improve retention strategies
 - Make data-driven decisions
+
+🔍 Key Insights
+- Customers with low tenure have higher churn probability
+- Customers using fewer products are more likely to leave
+- Certain regions show higher churn trends
+- Active members have lower churn rates
