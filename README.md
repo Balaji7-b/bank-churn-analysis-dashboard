@@ -1,4 +1,4 @@
-# bank-churn-analysis-dashboard
+# 📊 Bank Customer Churn Analysis Dashboard
 
 Power BI dashboard analyzing customer churn trends and retention strategies using real-world banking data.
 
